@@ -1,0 +1,3 @@
+Fonts used for this project:
+Simvoni (https://www.dafont.com/simvoni.font)
+Gidole (https://www.dafont.com/gidole.font)
